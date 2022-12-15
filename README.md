@@ -14,7 +14,7 @@ I am now preparing a paper studying the relationship between Chicago citizens ex
 ## Strategy for drawing this map
 1. For this purpose, I have downloaded the arrest data from the Chicago Data Portal. Then, I collected arrests on a specific charge, which is 8-4-010-(F): Disorderly Conduct – Assembly > 3Persons/Breach of Peach charge. This dataset doesn’t’ have arrest location information. So, I identified the location of each “Disorderly Conduct” arrest by utilizing the Chicago Police Department Arrest Record Search. I merged the location into the arrest dataset based on CB number. I would like to note that the Chicago Police Department issues a "CB" (Central Booking) number to arrestees for identification purposes. 
 
-2. With the merged final dataset, I geocoded the addresses using the MMQGIS plugin (More specifically, Geocoding in QGIS using KY's online geocoding service). I also added a ZIP code (ZIP Code Tabulation Areas) layer downloaded from US. Census Bureau.  
+2. With the merged final dataset, I geocoded the addresses using the MMQGIS plugin (More specifically, Geocoding in QGIS using KY's online geocoding service). I also added a ZIP code (ZIP Code Tabulation Areas) layer downloaded from US. Census Bureau. Finally, I joined the geocoded addresses to the ZIP code layer using the Join attributes by location (summary) tool.  
 
 
 <!-- /TOC -->
