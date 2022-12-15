@@ -19,5 +19,7 @@ For this purpose, I have downloaded the arrest data from the Chicago Data Portal
 
 ## Map Data 
 *Chicago Arrest data: https://data.cityofchicago.org/Public-Safety/Arrests/dpt3-jri9 
+
 *Chicago Police Department Arrest Record Search: http://publicsearch1.chicagopolice.org
+
 *ZIP code outline data: https://www.census.gov/cgi-bin/geo/shapefiles/index.php
