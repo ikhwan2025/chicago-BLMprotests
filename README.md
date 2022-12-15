@@ -1,4 +1,4 @@
-# chicago-BLMprotests
+# BLM-related protests
     >* 1.Project title (5 points)
        Number of BLM-related arrests in Chicago by ZIP code
 
