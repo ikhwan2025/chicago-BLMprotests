@@ -12,7 +12,9 @@ This map illustrates BLM-related arrests (Numbers and locations) by Chicago ZIP 
 I am now preparing a paper studying the relationship between Chicago citizens exposed to violent protests (or BLM-related arrests) and their demand for police spending. I think this map can show what parts (i.e., ZIP code) of Chicago were more exposed to such extreme protests (or arrests).
 
 ## Strategy for drawing this map
-For this purpose, I have downloaded the arrest data from the Chicago Data Portal. Then, I collected arrests on a specific charge, which is 8-4-010-(F): Disorderly Conduct – Assembly > 3Persons/Breach of Peach charge. This dataset doesn’t’ have arrest location information. So, I identified the location of each “Disorderly Conduct” arrest by utilizing the Chicago Police Department Arrest Record Search. I merged the location into the arrest dataset based on CB number. I would like to note that the Chicago Police Department issues a "CB" (Central Booking) number to arrestees for identification purposes. With the merged final dataset, I geocoded the addresses using the MMQGIS plugin (More specifically, Geocoding in QGIS using KY's online geocoding service). I also added a ZIP code (ZIP Code Tabulation Areas) layer downloaded from US. Census Bureau.  
+1. For this purpose, I have downloaded the arrest data from the Chicago Data Portal. Then, I collected arrests on a specific charge, which is 8-4-010-(F): Disorderly Conduct – Assembly > 3Persons/Breach of Peach charge. This dataset doesn’t’ have arrest location information. So, I identified the location of each “Disorderly Conduct” arrest by utilizing the Chicago Police Department Arrest Record Search. I merged the location into the arrest dataset based on CB number. I would like to note that the Chicago Police Department issues a "CB" (Central Booking) number to arrestees for identification purposes. 
+
+2. With the merged final dataset, I geocoded the addresses using the MMQGIS plugin (More specifically, Geocoding in QGIS using KY's online geocoding service). I also added a ZIP code (ZIP Code Tabulation Areas) layer downloaded from US. Census Bureau.  
 
 
 <!-- /TOC -->
