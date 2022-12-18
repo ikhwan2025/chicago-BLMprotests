@@ -1,4 +1,6 @@
 # BLM-related protests by Chicago ZIP Code
+<ul>
+	<li>See my map: <a href="https://ikhwan2025.github.io/chicago-BLMprotests/">BLM-related protests</a></li>
 
 <!-- /TOC -->
 
@@ -21,7 +23,7 @@ I am now preparing a paper studying the relationship between Chicago citizens ex
 <!-- /TOC -->
 
 ## Conclusion and Takeaway
-Of all the 58 ZIP code areas relevant to Chicago, 19 ZIP code areas experienced no BLM-related arrests during two major waves of 2020 Chicago BLM protests. However, such arrests were made at 39 ZIP code areas. Four ZIP code areas (60601, 60602, 60603, 60611) had at least one BLM-related arrest during both two waves. In conclusion, we can know that BLM-related arrests were not made at the far north side and far south side of Chicago. Moreover, the central side of Chicago experienced such arrest during both two major waves. 
+Of all the 58 ZIP code areas relevant to Chicago, 19 ZIP code areas experienced no BLM-related arrests during two major waves of 2020 Chicago BLM protests. However, such arrests were made at 39 ZIP code areas. Four ZIP code areas (60601, 60602, 60603, 60611) had at least one BLM-related arrest during both two waves. In conclusion, we can know that BLM-related arrests were not made at the far north side and far southeast side of Chicago. Moreover, the central side of Chicago experienced such arrest during both two major waves. 
 
 
 ## Map Data 
@@ -31,5 +33,11 @@ Of all the 58 ZIP code areas relevant to Chicago, 19 ZIP code areas experienced 
 
 *ZIP code outline data: https://www.census.gov/cgi-bin/geo/shapefiles/index.php
 
+<<<<<<< HEAD
+=======
 <ul>
 	<li>See my map: <a href="https://ikhwan2025.github.io/chicago-BLMprotests/">BLM-related protests</a></li>
+<<<<<<< HEAD
+>>>>>>> 28725e3ab9b27f25babc3ec4e45fcf6252ec8a84
+=======
+>>>>>>> 28725e3ab9b27f25babc3ec4e45fcf6252ec8a84
